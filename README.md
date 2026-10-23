@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [1929-concatenation-of-array](https://github.com/ganapathimallya/LeetPractice/tree/master/1929-concatenation-of-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/ganapathimallya/LeetPractice/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Binary Search
 |  |
@@ -27,4 +28,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2089-find-target-indices-after-sorting-array](https://github.com/ganapathimallya/LeetPractice/tree/master/2089-find-target-indices-after-sorting-array) |
+## Simulation
+|  |
+| ------- |
+| [1929-concatenation-of-array](https://github.com/ganapathimallya/LeetPractice/tree/master/1929-concatenation-of-array) |
 <!---LeetCode Topics End-->
